@@ -9,7 +9,7 @@ dependencies = [
     # I tried 2.4.0 but the generated audio is wrong, so 2.5+ is needed.
     "torch>=2.5.0",
     "pydantic>=2",
-    "sentencepiece>=0.2.1",
+    "sentencepiece>=0.1.97",
     "beartype>=0.22.5",
     "safetensors>=0.4.0",
     "typer>=0.10.0",
